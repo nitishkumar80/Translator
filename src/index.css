@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(0deg, #FFB702, #0A4E95);
+
+overflow: auto;
+}
+
+.App{
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+ 
+}
+div{
+    padding: 10px;
+    font-size: 18px;
+}
+
+select{
+    padding: 5px;
+    font-size: 18px;
+    background: rgba(255,255,255,0.6);
+}
+
+textarea{
+    font-size: 28px;
+    background: rgba(255,255,255,0.6);
+   
+
+}
+
+button{
+    font-size: 28px;
+    background: rgba(255,255,255,0.6);
+    color: rgb(3, 2, 2);
+}
+
+h1{
+
+    color: white;
+    font-size: 42px;
+}
